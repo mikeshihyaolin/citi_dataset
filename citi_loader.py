@@ -18,7 +18,7 @@ subject_labels = np.load(subject_label_path)
 # load data
 data_list = sorted(glob.glob(data_path))
 data = []
-for i, fi in enumerate(data_list):
+for _, fi in enumerate(data_list):
 	print(fi)
 	data.append(np.load(fi))
     
@@ -28,3 +28,4 @@ print("action label #10: "+str(action_labels[10][0]))
 print("subject label #10: "+str(subject_labels[10][0]))
 print("action #10 frame #1~#2: "+str(data[0][0:2]))
 print("* Each frame is a 57(=19 body_joints * 3(x,y,z)-d feature vector\n\n")
+
