@@ -9,7 +9,7 @@ RGB-D images (480x640)
 Depth images (320x240) 
 
 ## Download data
-1. RGB Images: (480x640) 
+1. RGB Images (480x640) 
 2. [Depth Images](https://drive.google.com/open?id=1WnYZHO3406oIDcZl-KxYXBhQNSOELd2W)
 3. [Skeletal Data](https://drive.google.com/open?id=1IdVBAxKqQqx4yz2ctdEn9dc1YwzNLPnF) (320x240)
 4. [Labels](https://drive.google.com/open?id=1aUF_oRhJNb6prBGJ6mhkz-3NJcmbsMRJ)
