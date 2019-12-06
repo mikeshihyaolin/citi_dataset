@@ -23,8 +23,8 @@ The dataset has 481 sequences. Among them, 182 sequences contain outlier frames 
 
 ## Download data
 1. [RGB Images (21GB)](https://drive.google.com/open?id=1wjtMKBEd02muTAMZD9vSLsSj9M2i3qqn) (480x640) 
-2. [Depth Images (2.1GB)](https://drive.google.com/open?id=1WnYZHO3406oIDcZl-KxYXBhQNSOELd2W)
-3. [Skeletal Data (256MB)](https://drive.google.com/open?id=1IdVBAxKqQqx4yz2ctdEn9dc1YwzNLPnF) (320x240)
+2. [Depth Images (2.1GB)](https://drive.google.com/open?id=1WnYZHO3406oIDcZl-KxYXBhQNSOELd2W) (320x240)
+3. [3D Skeletal Data (256MB)](https://drive.google.com/open?id=1IdVBAxKqQqx4yz2ctdEn9dc1YwzNLPnF) 
 4. [Labels](https://drive.google.com/open?id=1aUF_oRhJNb6prBGJ6mhkz-3NJcmbsMRJ)
 
 NOTE: The dataset contains 481 action examples, where action example #1 - #300 are the actions without outlier frames, and action example # 301 - # 482 are the actions with outlier frames. 
