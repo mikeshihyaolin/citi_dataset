@@ -5,7 +5,7 @@ The CITI-DailyActivities 3D dataset comprises action videos of three modalities 
 
 The dataset has 481 sequences. Among them, 182 sequences contain outlier frames presenting in arbitrary locations and lasting for various durations. Ten actors, including eight males and two females, were recruited for building this dataset, and one of them is left-handed. Each activity is performed by each actor between two and five times. A Microsoft Kinect was used for the collection so that the RGB video, the depth maps, and the inferred skeletons of each activity sequence are all available. The skeleton structures in this work were extracted by using the Kinect SDK v1.8
 
-![](figs/a01_s11_e01.gif)
+![](figs/a01_s11_e01.gif=100*150)
 ![](figs/a02_s11_e01.gif)
 ![](figs/a03_s11_e01.gif)
 ![](figs/a04_s11_e01.gif)
