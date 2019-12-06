@@ -11,14 +11,14 @@ The dataset has 481 sequences. Among them, 182 sequences contain outlier frames 
 <img src=figs/a05_s11_e01.gif width="150">
 <img src=figs/a06_s11_e01.gif width="150">
 <img src=figs/a07_s11_e01.gif width="150">
-<img src=figs/a08_s11_e01.gif)
-<img src=figs/a09_s11_e01.gif)
-<img src=figs/a10_s11_e01.gif)
-<img src=figs/a11_s11_e01.gif)
-<img src=figs/a12_s11_e01.gif)
-<img src=figs/a13_s11_e01.gif)
-<img src=figs/a14_s11_e01.gif)
-!<img src=figs/a15_s11_e01.gif)
+<img src=figs/a08_s11_e01.gif width="150">
+<img src=figs/a09_s11_e01.gif width="150">
+<img src=figs/a10_s11_e01.gif width="150">
+<img src=figs/a11_s11_e01.gif width="150">
+<img src=figs/a12_s11_e01.gif width="150">
+<img src=figs/a13_s11_e01.gif width="150">
+<img src=figs/a14_s11_e01.gif width="150">
+<img src=figs/a15_s11_e01.gif width="150">
 
 ## Download data
 1. [RGB Images](https://drive.google.com/open?id=1wjtMKBEd02muTAMZD9vSLsSj9M2i3qqn) (480x640) 
