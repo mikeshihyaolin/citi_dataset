@@ -33,3 +33,16 @@ NOTE: The dataset contains 481 action examples, where action example #1 - #300 a
 ```
 python citi_loader.py
 ```
+# Citation
+```
+@article{lin2017recognizing,
+  title={Recognizing human actions with outlier frames by observation filtering and completion},
+  author={Lin, Shih-Yao and Lin, Yen-Yu and Chen, Chu-Song and Hung, Yi-Ping},
+  journal={ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)},
+  volume={13},
+  number={3},
+  pages={28},
+  year={2017},
+  publisher={ACM}
+}
+```
